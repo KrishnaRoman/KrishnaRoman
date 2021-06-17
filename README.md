@@ -12,6 +12,6 @@ You can click the Preview link to take a look at your changes.
 
 <h1 align="center">Hi 👋, I'm Krishna</h1>
 <h3 align="center">I'm currently learning Databases and Artificial Intelligence. </h3>
-- 📫 Reach me directly at : **krishnaroman3009@gmail.com**
-
+- 📫 Reach me directly at : krishnaroman3009@gmail.com
+  
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=krishnaroman&show_icons=true&theme=algolia" alt="OsirisRoman" /></p>
